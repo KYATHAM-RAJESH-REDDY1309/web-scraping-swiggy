@@ -1,13 +1,13 @@
 # web-scraping-swiggy(K.Rajesh Reddy) 
 
 
+AUTHOR=KYATHAM RAJESH REDDY
+
+
 B-TECH(computer science and engineering)
 
 
-kalsalingam acadmy of research and education
-
-
-KYATHAM RAJESH REDDY
+KALASALINGAM ACADEMY OF RESEARCH AND EDUCATION
 
 
     GUIDED BY:
